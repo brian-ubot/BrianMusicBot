@@ -1,5 +1,5 @@
 {
-  "name": "Yukki Music Bot",
+  "name": "Brian Music Bot",
   "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
   "keywords": [
@@ -7,7 +7,7 @@
   "telegram",
   "bot",
   "Yukki",
-  "YukkiMusicBot",
+  "BrianMusicBot",
   "telegram-bot",
   "pyrogram"
   ],
@@ -110,7 +110,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/NotReallyShikhar/YukkiMusicBot",
+      "value": "https://github.com/brian-ubot/BrianMusicBot",
       "required": true
     },
     "UPSTREAM_BRANCH": {
